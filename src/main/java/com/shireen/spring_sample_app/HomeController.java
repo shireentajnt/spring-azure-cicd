@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping
     public String index(){
-        return "Hello from spring boot app";
+        return "Hello from spring boot app modified";
     }
 }
